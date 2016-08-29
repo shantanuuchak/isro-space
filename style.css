@@ -12,6 +12,15 @@ body {
   text-align: center;
 }
 
+.logo-img {
+  width: 200px;
+}
+
+.title-text {
+  margin-bottom: 15px;
+}
+
+/* Utility Class */
 .underline {
-  border-bottom: 1px solid black;
+  border-bottom: 5px solid rgba(0, 0, 0, 0.355);
 }
