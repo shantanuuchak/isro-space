@@ -1,3 +1,8 @@
+@font-face {
+  src: url("911porschav3.ttf");
+  font-family: "Porschav";
+}
+
 * {
   margin: 0;
   padding: 0;
