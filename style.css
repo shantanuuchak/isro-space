@@ -1,5 +1,5 @@
 @font-face {
-  src: url("911porschav3.ttf");
+  src: url("assets/911porschav3.ttf");
   font-family: "Porschav";
 }
 
@@ -11,6 +11,7 @@
 
 body {
   font-family: sans-serif;
+  font-family: "Porschav";
 }
 
 .card {
