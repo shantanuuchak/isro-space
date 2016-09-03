@@ -3,6 +3,11 @@
   font-family: "Porschav";
 }
 
+@font-face {
+  src: url("assets/911porschav3laser.ttf");
+  font-family: "PorschavLaser";
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -29,6 +34,7 @@ body {
 
 .footer {
   text-align: center;
+  font-family: "PorschavLaser";
 }
 
 /* Utility Class */
