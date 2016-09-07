@@ -8,6 +8,11 @@
   font-family: "PorschavLaser";
 }
 
+@font-face {
+  src: url("assets/911porschav33dital.ttf");
+  font-family: "Porschavdital";
+}
+
 * {
   margin: 0;
   padding: 0;
