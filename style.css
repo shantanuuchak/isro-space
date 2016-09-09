@@ -37,6 +37,10 @@ body {
   margin-bottom: 15px;
 }
 
+.btn {
+  font-family: inherit;
+}
+
 .footer {
   text-align: center;
   font-family: "PorschavLaser";
