@@ -27,6 +27,8 @@ body {
 .card {
   text-align: center;
   margin-bottom: 20px;
+  background: navajowhite;
+  padding: 30px 0;
 }
 
 .logo-img {
