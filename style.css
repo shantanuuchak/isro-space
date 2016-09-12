@@ -5,6 +5,13 @@
   white: #ff3fff;
 */
 
+:root {
+  --orange: #f47216;
+  --blue: #0e88d3;
+  --dark: #333333;
+  --white: #ff3fff;
+}
+
 @font-face {
   src: url("assets/911porschav3.ttf");
   font-family: "Porschav";
