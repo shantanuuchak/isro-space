@@ -9,7 +9,7 @@
   --orange: #f47216;
   --blue: #0e88d3;
   --dark: #333333;
-  --white: #ff3fff;
+  --white: #f7e1f7;
 }
 
 @font-face {
@@ -41,7 +41,7 @@ body {
 .card {
   text-align: center;
   margin-bottom: 20px;
-  background: navajowhite;
+  background: var(--white);
   padding: 30px 0;
 }
 
