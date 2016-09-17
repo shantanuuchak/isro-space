@@ -39,6 +39,7 @@ body {
 }
 
 .card {
+  color: var(--white);
   text-align: center;
   margin-bottom: 20px;
   background: var(--white);
