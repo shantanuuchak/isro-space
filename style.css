@@ -74,5 +74,5 @@ body {
 
 /* Utility Class */
 .underline {
-  border-bottom: 5px solid rgba(0, 0, 0, 0.355);
+  border-bottom: 5px solid var(--orange);
 }
