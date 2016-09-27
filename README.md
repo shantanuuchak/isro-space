@@ -1,3 +1,3 @@
 # ISRO Space UI
 
-A simple space card
+A cool galaxy inspired ISRO card (Indian Space Research Organization)
